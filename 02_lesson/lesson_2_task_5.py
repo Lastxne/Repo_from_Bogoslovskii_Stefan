@@ -9,5 +9,6 @@ def month_to_season(number):
         print("Осень")
     else:
         print("Некорректный номер месяца")
-    
-month_to_season (5)
+
+
+month_to_season(5)
